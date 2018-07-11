@@ -1,0 +1,5 @@
+rootProject.name = 'protoc-gen-javakotlin'
+
+include 'protoc-gen-javakotlin'
+include 'runtime'
+include 'example'
